@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdallah-Almahdy
 - 👀 I’m interested in different technologies
 - I’m studying computer science and information technology at suez university
-- 🌱 I’m currently learning IT | CyberSecurity 
+- 🌱 I’m currently learning IT | CyberSecurity | backend developer php laravel 
 - 📫 How to reach me:
 -  LinkedIn profile: https://www.linkedin.com/in/abdallah-omar-316289225
 -  WhatsApp 01203571855
